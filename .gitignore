@@ -26,3 +26,6 @@ replay_pid*
 week04-event-handling/activity5-interactive-form/build/
 week04-event-handling/activity5-interactive-form/dist/
 week04-event-handling/activity5-interactive-form/nbproject/private/
+
+# Maven output
+week06-javafx/target/
